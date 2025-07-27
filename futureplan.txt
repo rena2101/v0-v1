@@ -1,3 +1,0 @@
-apply ML
-apply MLOps
-Something need to be change
