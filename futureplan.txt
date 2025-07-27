@@ -1,2 +1,0 @@
-apply ML
-apply MLOps
